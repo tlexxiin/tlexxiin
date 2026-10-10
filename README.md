@@ -8,8 +8,8 @@
 <ul>
 <li> Sharpening my skills in C# and .NET </li>
 
-<li> 🧠 Solving algorithmic problems in C++ </li>
+<li> Solving algorithmic problems in C++ </li>
 
-<li> 🎯 Preparing for internships and real-world projects </li>
+<li> Preparing for internships and real-world projects </li>
 </ul>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlexxiin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
